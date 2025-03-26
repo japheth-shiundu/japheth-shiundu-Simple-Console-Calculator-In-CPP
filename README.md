@@ -3,7 +3,8 @@
 ![Screenshot (1)](https://github.com/user-attachments/assets/f7727c27-4198-4b83-9da8-badb513cceef)
 
 A simple command-line calculator program written in C++ that performs basic arithmetic operations.
-![Screenshot (2)](https://github.com/user-attachments/assets/f0c62f1b-75f2-457e-b4f0-fdd673adbe23)
+![Screenshot (2)](https://github.com/user-attachments/assets/ff6e1160-4257-4ddb-be64-2ec6881aa326)
+
 
 ## Features
 
